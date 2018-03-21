@@ -33,7 +33,7 @@ Open files in each editor are displayed with tabbed headers (Tabs) at the top of
 
 You can have up to three editors open side by side. If you already have one editor open, there are multiple ways of opening another editor to the side of the existing one:
 
-* `kbstyle(Ctrl)` (Mac: `kbstyle(Cmd)`) click on a file in the Explorer.
+* `kbstyle(Alt)` (Mac: `kbstyle(option)`) click on a file in the Explorer.
 * `kb(workbench.action.splitEditor)` to split the active editor into two.
 * **Open to the Side** from the Explorer context menu on a file.
 * Click the **Split Editor** button in the upper right of an editor.
